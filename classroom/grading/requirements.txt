@@ -1,0 +1,7 @@
+pytest
+rht-labs-core
+rht-labs-do280
+rht-labs-ocpcli
+rht-labs-dle
+openshift-client
+flake8-black
